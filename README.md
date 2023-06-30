@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Thamaraiselvam
-- 👀 I’m interested in web developement,web designs,software developement...
+- 👀 I’m interested in software developement,web developement,web designs,...
 - 🌱 I’m currently learning Java ...
-- 💞️ I’m looking for job in software engineer field
+- 💞️ I’m fresher and looking for job in software engineer field
 - 📫 How to reach me ...selvamthamarai874@gmail.com
 
 <!---
